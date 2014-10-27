@@ -1,0 +1,25 @@
+<div class="size-mini visible-xs-block visible-sm-block">
+    <aside class="icon" style="background-position: {{ -16 * icons[node.name] }}px 0"></aside>
+    <div class="info row">
+        <div class="col-xs-4">
+            <strong>{{ node.name }}</strong>
+        </div>
+        <div class="col-xs-2">
+            <span class="text-muted">Slot {{ node.slot }}</span>
+        </div>
+    </div>
+</div>
+
+<div class="size-normal visible-md-block visible-lg-block">
+    <aside class="icon" style="background-position: {{ -32 * icons[node.name] }}px 0"></aside>
+    <div class="info row">
+        <div class="col-md-5">
+            <div><strong>{{ node.name }}</strong></div>
+            <div class="text-muted">Slot {{ node.slot }}</div>
+        </div>
+        <div class="col-md-7">
+            <div>{{ get_location_name }}</div>
+            <div class="text-muted">{{ node.time }}</div>
+        </div>
+    </div>
+</div>

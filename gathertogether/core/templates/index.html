@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en" ng-app="gather-together">
+<head>
+    <meta charset="utf-8">
+    <title>{Gather Together}</title>
+
+    <!-- jQuery -->
+    <script src="{{ STATIC_URL }}jquery.min.js"></script>
+
+    <!-- Angular -->
+    <script type="text/javascript" src="{{ STATIC_URL }}angular.min.js"></script>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="{{ STATIC_URL }}bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ STATIC_URL }}bootstrap/css/bootstrap-theme.min.css">
+    <script src="{{ STATIC_URL }}bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- App -->
+    <link rel="stylesheet" href="static/app/app.css">
+    <script type="text/javascript" src="static/app/app.js"></script>
+    <script type="text/javascript" src="static/app/controllers.js"></script>
+    <script type="text/javascript" src="static/app/directives.js"></script>
+</head>
+{% verbatim %}
+<body class="container">
+    <div ng-controller="GatheringTypes">
+        <div class="row">
+            <div ng-repeat="(type, data) in types"
+                    class="col-md-6">
+                <div class="panel panel-default" data-type="{{ type }}">
+                    <div class="panel-heading">
+                        {{ data.name }}
+                    </div>
+                    <ul class="list-group nodes">
+                        <li ng-repeat="(id, node) in data.objects"
+                                class="list-group-item">
+                            <gathering-node ng-controller="Node"></gathering-node>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+{% endverbatim %}
+</html>

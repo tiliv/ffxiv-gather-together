@@ -1,0 +1,268 @@
+{
+    "0": {
+        "location": 0,
+        "name": "Darksteel Ore",
+        "slot": "3",
+        "time": "1:00 am"
+    },
+    "1": {
+        "level": "**",
+        "location": 1,
+        "name": "Antumbral Rock",
+        "slot": "7",
+        "time": "2:00 am"
+    },
+    "2": {
+        "level": "**",
+        "location": 2,
+        "name": "Ferberite",
+        "slot": "6",
+        "time": "3:00 am"
+    },
+    "3": {
+        "level": "**",
+        "location": 2,
+        "name": "Raw Topaz",
+        "slot": "7",
+        "time": "3:00 am"
+    },
+    "4": {
+        "level": "**",
+        "location": 2,
+        "name": "Raw Iolite",
+        "slot": "8",
+        "time": "3:00 am"
+    },
+    "5": {
+        "level": "**",
+        "location": 3,
+        "name": "Native Gold",
+        "slot": "6",
+        "time": "4:00 am"
+    },
+    "6": {
+        "level": "**",
+        "location": 3,
+        "name": "Raw Emerald",
+        "slot": "7",
+        "time": "4:00 am"
+    },
+    "7": {
+        "level": "**",
+        "location": 3,
+        "name": "Raw Diamond",
+        "slot": "8",
+        "time": "4:00 am"
+    },
+    "8": {
+        "location": 21,
+        "name": "Gold Sand",
+        "slot": "2",
+        "time": "5:00 am"
+    },
+    "9": {
+        "level": "*",
+        "location": 5,
+        "name": "Water Cluster",
+        "slot": "5",
+        "time": "5:00 am"
+    },
+    "10": {
+        "level": "*",
+        "location": 5,
+        "name": "Grade 3 Thanalan Soil",
+        "slot": "8",
+        "time": "5:00 am"
+    },
+    "11": {
+        "level": "*",
+        "location": 6,
+        "name": "Umbral Rock",
+        "slot": "7",
+        "time": "6:00 am"
+    },
+    "12": {
+        "level": "*",
+        "location": 6,
+        "name": "Grade 3 Shroud Soil",
+        "slot": "8",
+        "time": "6:00 am"
+    },
+    "13": {
+        "location": 21,
+        "name": "Gold Ore",
+        "slot": "6",
+        "time": "9:00 am"
+    },
+    "14": {
+        "location": 21,
+        "name": "Coblyn Larva",
+        "slot": "7",
+        "time": "9:00 am"
+    },
+    "15": {
+        "location": 7,
+        "name": "Grade 4 Carbonized Matter",
+        "slot": "1",
+        "time": "1:00 pm"
+    },
+    "16": {
+        "location": 7,
+        "name": "Lightning Cluster",
+        "slot": "2",
+        "time": "1:00 pm"
+    },
+    "17": {
+        "location": 7,
+        "name": "Fire Cluster",
+        "slot": "3",
+        "time": "1:00 pm"
+    },
+    "18": {
+        "location": 7,
+        "name": "Wind Cluster",
+        "slot": "4",
+        "time": "1:00 pm"
+    },
+    "19": {
+        "location": 7,
+        "name": "Water Cluster",
+        "slot": "5",
+        "time": "1:00 pm"
+    },
+    "20": {
+        "location": 7,
+        "name": "Ice Cluster",
+        "slot": "6",
+        "time": "1:00 pm"
+    },
+    "21": {
+        "location": 7,
+        "name": "Earth Cluster",
+        "slot": "7",
+        "time": "1:00 pm"
+    },
+    "22": {
+        "location": 8,
+        "name": "Volcanic Rock Salt",
+        "slot": "1",
+        "time": "5:00 pm"
+    },
+    "23": {
+        "location": 7,
+        "name": "Grade 4 Carbonized Matter",
+        "slot": "1",
+        "time": "5:00 pm"
+    },
+    "24": {
+        "location": 7,
+        "name": "Lightning Cluster",
+        "slot": "2",
+        "time": "5:00 pm"
+    },
+    "25": {
+        "location": 7,
+        "name": "Fire Cluster",
+        "slot": "3",
+        "time": "5:00 pm"
+    },
+    "26": {
+        "location": 7,
+        "name": "Wind Cluster",
+        "slot": "4",
+        "time": "5:00 pm"
+    },
+    "27": {
+        "location": 7,
+        "name": "Water Cluster",
+        "slot": "5",
+        "time": "5:00 pm"
+    },
+    "28": {
+        "location": 7,
+        "name": "Ice Cluster",
+        "slot": "6",
+        "time": "5:00 pm"
+    },
+    "29": {
+        "location": 7,
+        "name": "Earth Cluster",
+        "slot": "7",
+        "time": "5:00 pm"
+    },
+    "30": {
+        "level": "**",
+        "location": 9,
+        "name": "Raw Ruby",
+        "slot": "7",
+        "time": "6:00 pm"
+    },
+    "31": {
+        "level": "**",
+        "location": 9,
+        "name": "Raw Sapphire",
+        "slot": "8",
+        "time": "6:00 pm"
+    },
+    "32": {
+        "location": 10,
+        "name": "Fire Cluster",
+        "slot": "3",
+        "time": "7:00 pm"
+    },
+    "33": {
+        "level": "*",
+        "location": 10,
+        "name": "Grade 3 La Noscean Soil",
+        "slot": "8",
+        "time": "7:00 pm"
+    },
+    "34": {
+        "location": 20,
+        "name": "Astral Rock",
+        "slot": "7",
+        "time": "9:00 pm"
+    },
+    "35": {
+        "location": 7,
+        "name": "Grade 4 Carbonized Matter",
+        "slot": "1",
+        "time": "9:00 pm"
+    },
+    "36": {
+        "location": 7,
+        "name": "Lightning Cluster",
+        "slot": "2",
+        "time": "9:00 pm"
+    },
+    "37": {
+        "location": 7,
+        "name": "Fire Cluster",
+        "slot": "3",
+        "time": "9:00 pm"
+    },
+    "38": {
+        "location": 7,
+        "name": "Wind Cluster",
+        "slot": "4",
+        "time": "9:00 pm"
+    },
+    "39": {
+        "location": 7,
+        "name": "Water Cluster",
+        "slot": "5",
+        "time": "9:00 pm"
+    },
+    "40": {
+        "location": 7,
+        "name": "Ice Cluster",
+        "slot": "6",
+        "time": "9:00 pm"
+    },
+    "41": {
+        "location": 7,
+        "name": "Earth Cluster",
+        "slot": "7",
+        "time": "9:00 pm"
+    }
+}

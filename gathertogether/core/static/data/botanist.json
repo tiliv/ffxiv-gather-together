@@ -1,0 +1,282 @@
+{
+    "42": {
+        "location": 11,
+        "name": "Crawler Cocoon",
+        "slot": "4",
+        "time": "1:00 am"
+    },
+    "43": {
+        "location": 7,
+        "name": "Grade 4 Carbonized Matter",
+        "slot": "1",
+        "time": "1:00 am"
+    },
+    "44": {
+        "location": 7,
+        "name": "Lightning Cluster",
+        "slot": "2",
+        "time": "1:00 am"
+    },
+    "45": {
+        "location": 7,
+        "name": "Fire Cluster",
+        "slot": "3",
+        "time": "1:00 am"
+    },
+    "46": {
+        "location": 7,
+        "name": "Wind Cluster",
+        "slot": "4",
+        "time": "1:00 am"
+    },
+    "47": {
+        "location": 7,
+        "name": "Water Cluster",
+        "slot": "5",
+        "time": "1:00 am"
+    },
+    "48": {
+        "location": 7,
+        "name": "Ice Cluster",
+        "slot": "6",
+        "time": "1:00 am"
+    },
+    "49": {
+        "location": 7,
+        "name": "Earth Cluster",
+        "slot": "7",
+        "time": "1:00 am"
+    },
+    "50": {
+        "level": "*",
+        "location": 6,
+        "name": "Fragrant Log",
+        "slot": "6",
+        "time": "2:00 am"
+    },
+    "51": {
+        "level": "**",
+        "location": 13,
+        "name": "Shroud Tea Leaves",
+        "slot": "6",
+        "time": "2:00 am"
+    },
+    "52": {
+        "level": "**",
+        "location": 14,
+        "name": "Scarlet Sap",
+        "slot": "4",
+        "time": "3:00 am"
+    },
+    "53": {
+        "location": 12,
+        "name": "Trillium",
+        "slot": "1",
+        "time": "5:00 am"
+    },
+    "54": {
+        "location": 15,
+        "name": "Honey Lemon Seeds",
+        "slot": "1",
+        "time": "5:00 am"
+    },
+    "55": {
+        "location": 15,
+        "name": "Honey Lemon",
+        "slot": "2",
+        "time": "5:00 am"
+    },
+    "56": {
+        "location": 7,
+        "name": "Grade 4 Carbonized Matter",
+        "slot": "1",
+        "time": "5:00 am"
+    },
+    "57": {
+        "location": 7,
+        "name": "Lightning Cluster",
+        "slot": "2",
+        "time": "5:00 am"
+    },
+    "58": {
+        "location": 7,
+        "name": "Fire Cluster",
+        "slot": "3",
+        "time": "5:00 am"
+    },
+    "59": {
+        "location": 7,
+        "name": "Wind Cluster",
+        "slot": "4",
+        "time": "5:00 am"
+    },
+    "60": {
+        "location": 7,
+        "name": "Water Cluster",
+        "slot": "5",
+        "time": "5:00 am"
+    },
+    "61": {
+        "location": 7,
+        "name": "Ice Cluster",
+        "slot": "6",
+        "time": "5:00 am"
+    },
+    "62": {
+        "location": 7,
+        "name": "Earth Cluster",
+        "slot": "7",
+        "time": "5:00 am"
+    },
+    "63": {
+        "level": "**",
+        "location": 9,
+        "name": "Y. Cieldalaes Spinach",
+        "slot": "6",
+        "time": "6:00 am"
+    },
+    "64": {
+        "level": "**",
+        "location": 13,
+        "name": "Redolent Log",
+        "slot": "6",
+        "time": "6:00 am"
+    },
+    "65": {
+        "level": "**",
+        "location": 16,
+        "name": "Blood Orange",
+        "slot": "2",
+        "time": "7:00 am"
+    },
+    "66": {
+        "level": "**",
+        "location": 16,
+        "name": "Bamboo Stick",
+        "slot": "6",
+        "time": "7:00 am"
+    },
+    "67": {
+        "level": "**",
+        "location": 17,
+        "name": "La Noscean Leek",
+        "slot": "6",
+        "time": "8:00 am"
+    },
+    "68": {
+        "level": "**",
+        "location": 17,
+        "name": "Waterfowl Feather",
+        "slot": "?",
+        "time": "8:00 am"
+    },
+    "69": {
+        "level": "**",
+        "location": 10,
+        "name": "Apricot",
+        "slot": "2",
+        "time": "9:00 am"
+    },
+    "70": {
+        "location": 0,
+        "name": "Spruce Log",
+        "slot": "6",
+        "time": "9:00 am"
+    },
+    "71": {
+        "location": 15,
+        "name": "Prickly Pineapple Seeds",
+        "slot": "1",
+        "time": "9:00 am"
+    },
+    "72": {
+        "location": 15,
+        "name": "Prickly Pineapple",
+        "slot": "4",
+        "time": "9:00 am"
+    },
+    "73": {
+        "location": 7,
+        "name": "Grade 4 Carbonized Matter",
+        "slot": "1",
+        "time": "9:00 am"
+    },
+    "74": {
+        "location": 7,
+        "name": "Lightning Cluster",
+        "slot": "2",
+        "time": "9:00 am"
+    },
+    "75": {
+        "location": 7,
+        "name": "Fire Cluster",
+        "slot": "3",
+        "time": "9:00 am"
+    },
+    "76": {
+        "location": 7,
+        "name": "Wind Cluster",
+        "slot": "4",
+        "time": "9:00 am"
+    },
+    "77": {
+        "location": 7,
+        "name": "Water Cluster",
+        "slot": "5",
+        "time": "9:00 am"
+    },
+    "78": {
+        "location": 7,
+        "name": "Ice Cluster",
+        "slot": "6",
+        "time": "9:00 am"
+    },
+    "79": {
+        "location": 7,
+        "name": "Earth Cluster",
+        "slot": "7",
+        "time": "9:00 am"
+    },
+    "80": {
+        "location": 0,
+        "name": "Vampire Plant",
+        "slot": "8",
+        "time": "1:00 pm"
+    },
+    "81": {
+        "location": 1,
+        "name": "Black Truffle",
+        "slot": "7",
+        "time": "1:00 pm"
+    },
+    "82": {
+        "location": 8,
+        "name": "Dzemael Tomato Seeds",
+        "slot": "1",
+        "time": "1:00 pm"
+    },
+    "83": {
+        "location": 8,
+        "name": "Dzemael Tomato",
+        "slot": "3",
+        "time": "1:00 pm"
+    },
+    "84": {
+        "location": 18,
+        "name": "Thavnairian Mistletoe",
+        "slot": "2",
+        "time": "5:00 pm"
+    },
+    "85": {
+        "location": 19,
+        "name": "Kidragora",
+        "slot": "7",
+        "time": "9:00 pm"
+    },
+    "86": {
+        "location": 19,
+        "name": "Trillium Bulb",
+        "slot": "8",
+        "time": "9:00 pm"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "miner": {
+        "name": "Miner",
+        "icon": 0,
+        "objects": {}
+    },
+    "botanist": {
+        "name": "Botanist",
+        "icon": 0,
+        "objects": {}
+    }
+}

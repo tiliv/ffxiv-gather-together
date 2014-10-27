@@ -1,0 +1,26 @@
+.nodes li .icon {
+    float: left;
+    background: url('items2.png');
+    margin-right: 0.25em;
+    border: solid 1px black;
+}
+
+.nodes li .size-normal .icon {
+    width: 32px;
+    height: 32px;
+    background-size: auto 32px;
+    border-radius: 3px;
+}
+.nodes li .size-normal .info {
+    margin-left: 48px;
+}
+
+.nodes li .size-mini .icon {
+    width: 16px;
+    height: 16px;
+    background-size: auto 16px;
+    border-radius: 2px;
+}
+.nodes li .size-mini .info {
+    margin-left: 24px;
+}

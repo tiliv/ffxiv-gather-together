@@ -1,0 +1,112 @@
+{
+    "0": {
+        "area": "Dragonhead",
+        "teleport": "Camp Dragonhead",
+        "zone": "Coerthas"
+    },
+    "1": {
+        "area": "Drybone",
+        "teleport": "Camp Drybone",
+        "zone": "Eastern Thanalan"
+    },
+    "2": {
+        "area": "Ceruleum Processing Plant",
+        "teleport": "Ceruleum Processing Plant",
+        "zone": "Northern Thanalan"
+    },
+    "3": {
+        "area": "Black Brush Station",
+        "teleport": "Black Brush Station",
+        "zone": "Central Thanalan"
+    },
+    "4": {
+        "area": "Black Brush Station",
+        "teleport": "Black Brush Station",
+        "zone": "Central Thanalan"
+    },
+    "5": {
+        "area": "Silver Bazaar",
+        "teleport": "Horizon",
+        "zone": "Western Thanalan"
+    },
+    "6": {
+        "area": "Camp Tranquil",
+        "teleport": "Camp Tranquil",
+        "zone": "South Shroud"
+    },
+    "7": {
+        "area": "Saint Coinach's Find",
+        "teleport": "Revenant's Toll",
+        "zone": "Mor Dhona"
+    },
+    "8": {
+        "area": "Raincatcher Gully",
+        "teleport": "Wineport",
+        "zone": "Eastern La Noscea"
+    },
+    "9": {
+        "area": "Moraby Drydocks",
+        "teleport": "Moraby Drydocks",
+        "zone": "Lower La Noscea"
+    },
+    "10": {
+        "area": "Zephyr Drift",
+        "teleport": "Summerford Farms",
+        "zone": "Middle La Noscea"
+    },
+    "11": {
+        "area": "Little Solace",
+        "teleport": "Hawthorne Hut",
+        "zone": "East Shroud"
+    },
+    "12": {
+        "area": "The Bramble Patch",
+        "teleport": "Hawthorne Hut",
+        "zone": "East Shroud"
+    },
+    "13": {
+        "area": "Bentbranch Meadows",
+        "teleport": "Bentbranch",
+        "zone": "Central Shroud"
+    },
+    "14": {
+        "area": "Fallgourd Float",
+        "teleport": "Fallgourd Float",
+        "zone": "North Shroud"
+    },
+    "15": {
+        "area": "Costa del Sol",
+        "teleport": "Costa del Sol",
+        "zone": "Eastern La Noscea"
+    },
+    "16": {
+        "area": "Camp Bronze Lake",
+        "teleport": "Camp Bronze Lake",
+        "zone": "Upper La Noscea"
+    },
+    "17": {
+        "area": "Swiftperch",
+        "teleport": "Swiftperch",
+        "zone": "Western La Noscea"
+    },
+    "18": {
+        "area": "Whitebrim",
+        "teleport": "Camp Dragonhead",
+        "zone": "Coerthas"
+    },
+    "19": {
+        "area": "The Honey Yard",
+        "teleport": "Hawthorne Hut",
+        "zone": "East Shroud"
+    },
+    "20": {
+        "area": "Observatorium",
+        "teleport": "Camp Dragonhead",
+        "zone": "Coerthas"
+    },
+    "21": {
+        "area": "Wellwick Wood",
+        "teleport": "Camp Drybone",
+        "zone": "Eastern Thanalan"
+    }
+}
